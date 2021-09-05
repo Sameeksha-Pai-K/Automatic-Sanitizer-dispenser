@@ -20,6 +20,7 @@ All components are available at [robocraze.com](https://robocraze.com/?gclid=Cj0
 6. Alcohol Based Hand Rub or Sanitizer
 7. Cardboard
 8. Double sided tape
+9. Eraser
 
 ### Software part
 
@@ -66,9 +67,9 @@ Vcc to Vin
 
 Gnd to Gnd
 
-###Step 4:
+### Step 4:
 
-Attach the handwash and servo motor to the cardboard. Stick ultrasonic sensor on the front side of handwash using double sided tape. Connect the push button to the servo motor using a wire.
+Attach the handwash and servo motor to the cardboard. Stick ultrasonic sensor on the front side of handwash using double sided tape. Make a hole in the eraser. Pass a wire through through the hole and connect one end of the eraser to servo motor and other end to a fixed point.
 
 ### Step 5:
 
