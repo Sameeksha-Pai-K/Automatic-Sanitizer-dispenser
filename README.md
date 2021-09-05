@@ -1,8 +1,11 @@
 # Automatic-Sanitizer-dispenser
-Touchless hand sanitizer dispenser using ardiuno
+Touchless hand sanitizer dispenser using arduino
 ## Inspiration
 
 The COVID-19 pandemic has radically affected life for almost everyone around the globe. With everyone being more careful of their interactions with humans and objects, personal health and hygiene has taken serious precedence over all other factors. A lot of public places have hand sanitizers for visitors, but they need to be manually pressed. We often forget to wash our hands when we get back home. So I thought of making a simple automatic sanitizer dispenser using arduino and attach it to the wall outside my house to make sure that everyone sanitize their hands before entering the house.
+
+<img src="https://user-images.githubusercontent.com/86705933/132134467-fcaaf395-ea5d-4f65-baca-2d8873bed81e.jpeg" width="500" height="800">
+
 
 ## Required Components
 
@@ -45,11 +48,12 @@ For motion or to process the Output, we might need either a pump, either motor, 
 
 For this project build, we will need a Microcontroller to control the Input and Output, to Calculate the distance or sense the Trigger from Sensor and Process the Output in form of Servo Sweep in our Example, for which we can use any arduino, which makes it easy to adjust the parameters, fine tune outputs, so you can use any Arduino.
 ### Step 3 :
+
 Connections for this build:
 
 **Circuit Diagram**
 
-![alt text](https://hackster.imgix.net/uploads/attachments/1102185/3_imxAl8QleS.png?auto=compress%2Cformat&w=1280&h=960&fit=max)
+<img src="https://hackster.imgix.net/uploads/attachments/1102185/3_imxAl8QleS.png?auto=compress%2Cformat&w=1280&h=960&fit=max" width="600" height="600">
 
 **Sensor to Arduino :**
 
@@ -71,7 +75,7 @@ Gnd to Gnd
 
 ### Step 4:
 
-Attach the handwash and servo motor to the cardboard. Stick ultrasonic sensor on the front side of handwash using double sided tape. Make a hole in the eraser. Pass a wire through through the hole and connect one end of the eraser to servo motor and other end to a fixed point.
+Attach the handwash and servo motor to the cardboard. Stick ultrasonic sensor on the front side of handwash using double sided tape. Make a hole in the eraser. Pass a wire through through the hole and connect one end of the wire to servo motor and other end to a fixed point.
 
 ### Step 5:
 
